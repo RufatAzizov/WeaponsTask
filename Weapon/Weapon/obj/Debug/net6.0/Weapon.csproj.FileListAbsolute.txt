@@ -1,0 +1,11 @@
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\bin\Debug\net6.0\Weapon.deps.json
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\bin\Debug\net6.0\Weapon.dll
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\bin\Debug\net6.0\Weapon.pdb
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\obj\Debug\net6.0\Weapon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\obj\Debug\net6.0\Weapon.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\obj\Debug\net6.0\Weapon.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\obj\Debug\net6.0\Weapon.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\obj\Debug\net6.0\Weapon.dll
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\obj\Debug\net6.0\refint\Weapon.dll
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\obj\Debug\net6.0\Weapon.pdb
+C:\Users\Birinci Novbe\Desktop\Weapon\Weapon\obj\Debug\net6.0\ref\Weapon.dll
